@@ -49,6 +49,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## S - U
 - [SPI Nepal](http://www.softvision.com/) | Thapathali, Kathmandu | Provider of Digital Solutions, Mobility, Analytics, Merchandise Planning, In-Store Engagements and Quality Assurance
+- [TECHRISE ](http://www.techrise.me/) | Jhamsikhel, Lalitpur
 
 ## V - X
 - [Verscend Technologies](http://verscend.com.np/) | Hattisar, Kathmandu | Software research and development center
