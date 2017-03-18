@@ -34,7 +34,7 @@ If you cannot provide a valid website for your company your PR will not be accep
 
 ## J - L
 - [Janaki Tech](http://janakitech.com/) | Harihar Bhawan, Lalitpur | We strive to build better software useful for everyone
-- [Javra](http://javra.com/) | Kumaripati, Lalitpur | IT solutions that boost productivity in business
+- [Javra](http://javra.com/){:target="_blank"} | Kumaripati, Lalitpur | IT solutions that boost productivity in business
 - [Jyaasa](http://jyaasa.com/) | Jana Bahal Rd, Patan | We Design, Build, and Develop Products
 - [Karkhana](http://www.karkhana.asia/) | Pashupati Rd, Kathmandu | An education company and makerspace with a unique approach to learning
 - [Leapfrog Technology](http://lftechnology.com/) | Dillibazar, Kathmandu | We build mobile and web apps
